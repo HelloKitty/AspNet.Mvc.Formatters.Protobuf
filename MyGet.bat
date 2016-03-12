@@ -5,4 +5,4 @@ dnu pack
 dnu publish
 cd ..
 cd ..
-cd ./artifacts
+xcopy ./artifacts/bin/AspNet.Mvc.Formatters.Protobuf ./src/AspNet.Mvc.Formatters.Protobuf /s
