@@ -3,3 +3,5 @@ dnu restore
 dnu build
 dnu pack
 dnu publish
+cd ..
+cd ..
