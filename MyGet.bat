@@ -1,3 +1,3 @@
 dnvm upgrade
 dnu restore
-dnu build
+dnu pack ./src/AspNet.Mvc.Formatters.Protobuf
