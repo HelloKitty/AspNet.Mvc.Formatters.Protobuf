@@ -1,0 +1,1 @@
+xbuild ./AspNet.Mvc.Formatters.Protobuf.sln /p:DebugSymbols=False
