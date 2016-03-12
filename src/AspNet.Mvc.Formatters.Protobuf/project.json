@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "AspNet.Mvc.Formatters.Protobuf Class Library",
+  "authors": [ "Glader" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+	"frameworks": {
+		"dnxcore50": { },
+		"net451": { }
+	},
+	"dependencies": {
+		"Microsoft.AspNet.Mvc.Core": "6.0.0-rc1-final",
+		"protobuf-net": "2.1.0-alpha-1"
+	}
+}
