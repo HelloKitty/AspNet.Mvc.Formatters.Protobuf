@@ -1,1 +1,1 @@
-xbuild ./AspNet.Mvc.Formatters.Protobuf.sln /p:DebugSymbols=False
+dnu build ./src/AspNet.Mvc.Formatters.Protobuf/project.json
