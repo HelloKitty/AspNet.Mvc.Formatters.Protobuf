@@ -53,4 +53,6 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
+or you can register the formatters and header string manually.
+
 
