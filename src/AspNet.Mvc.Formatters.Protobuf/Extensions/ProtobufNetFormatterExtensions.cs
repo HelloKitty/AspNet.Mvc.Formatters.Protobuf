@@ -6,7 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Net.Http.Headers;
 using AspNet.Mvc.Formatters.Protobuf;
 
-namespace AspNet.Mvc
+//I know we shouldn't hijack Microsoft namespaces but it's so much easier for consumers
+//to access these extensions this way
+namespace Microsoft.AspNet.Builder
 {
 	/// <summary>
 	/// Extensions for Fluent MvcBuilder interfaces.
